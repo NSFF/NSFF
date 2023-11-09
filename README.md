@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RobinVC
-- 👀 I’m interested in Artificial intelligence
+- 👀 I’m interested in Artificial intelligence and Data Engineering
 - 🌱 I’m currently learning everything that I possibly can
 - 💞️ I’m looking to collaborate on whatever fits my dreams
 - 📫 How to reach me: https://www.linkedin.com/in/robin-van-craenenbroek/
