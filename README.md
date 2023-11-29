@@ -1,6 +1,6 @@
 <h1>Hi, my name is Robin Van Craenenbroek! 👋 <a href="https://www.linkedin.com/in/robin-van-craenenbroek/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=plastic">
-  </a>
+  </a><a href="https://www.kaggle.com/nsff591"><img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&style=plastic"></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=nsff&label=Profile%20views&color=0e75b6&style=flat" alt="nsff" /> </p>
 </h1>
 
 <a href="https://git.io/typing-svg">
@@ -22,11 +22,20 @@
 
 [![Top Langs](https://github-stats-deploying.vercel.app/api/top-langs/?username=nsff&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="left">Clouds ☁️:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
 
 <div>
   <h3>Most recent Medium article ✍️:</h3>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rvancraenenbroek/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rvancraenenbroek/0" alt="Robin Van Craenenbroek's most recent Medium article"></a>
 </div>
+
+<div>
+  <h3>Trophies 🏆:</h3>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsff" alt="nsff" /></a> </p>
+</div>
+
+
 <!---
 NSFF/NSFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
