@@ -1,6 +1,9 @@
 <h1>Hi, my name is Robin Van Craenenbroek! 👋 <a href="https://www.linkedin.com/in/robin-van-craenenbroek/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=plastic">
   </a>
+  <a href="https://www.linkedin.com/in/robin-van-craenenbroek/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=plastic">
+  </a>
 </h1>
 
 <a href="https://git.io/typing-svg">
@@ -12,6 +15,10 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=robinvc&show_icons=true&locale=en&theme=codeSTACKr" alt="Robin Van Craenenbroek's GitHub statistics"></p>
 </div>
 
+<div>
+  <h3>Most recent Medium article ✍️:</h3>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rvancraenenbroek/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rvancraenenbroek/0" alt="Robin Van Craenenbroek's most recent Medium article"></a>
+</div>
 <!---
 NSFF/NSFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
