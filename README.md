@@ -8,12 +8,12 @@
 </a>
 
 <div>
-  <h2>Github Activity 🤖:</h2>
+  <h3>Github Activity 🤖:</h3>
   <p><img src="https://github-stats-deploying.vercel.app/api?username=nsff&show_icons=true&locale=en&theme=codeSTACKr&count_private=true" alt="Robin Van Craenenbroek's GitHub statistics"></p>
 </div>
 
 <div>
-  <h2>Most recent Medium article ✍️:</h2>
+  <h3>Most recent Medium article ✍️:</h3>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@rvancraenenbroek/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@rvancraenenbroek/0" alt="Robin Van Craenenbroek's most recent Medium article"></a>
 </div>
 <!---
