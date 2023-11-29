@@ -9,7 +9,7 @@
 
 <div>
   <h2>Github Activity 🤖:</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=robinvc&show_icons=true&locale=en&theme=codeSTACKr" alt="Robin Van Craenenbroek's GitHub statistics"></p>
+  <p><img src="https://github-stats-deploying.vercel.app/api?username=nsff&show_icons=true&locale=en&theme=codeSTACKr&count_private=true" alt="Robin Van Craenenbroek's GitHub statistics"></p>
 </div>
 
 <div>
