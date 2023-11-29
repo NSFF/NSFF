@@ -1,9 +1,6 @@
 <h1>Hi, my name is Robin Van Craenenbroek! 👋 <a href="https://www.linkedin.com/in/robin-van-craenenbroek/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=plastic">
   </a>
-  <a href="https://www.linkedin.com/in/robin-van-craenenbroek/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=plastic">
-  </a>
 </h1>
 
 <a href="https://git.io/typing-svg">
