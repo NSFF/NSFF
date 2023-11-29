@@ -16,8 +16,12 @@
 
 <div>
   <h3>Github Activity 🤖:</h3>
-  <p><img src="https://github-stats-deploying.vercel.app/api?username=nsff&show_icons=true&locale=en&theme=codeSTACKr&count_private=true" alt="Robin Van Craenenbroek's GitHub statistics"></p>
 </div>
+
+[![Top Langs](https://github-stats-deploying.vercel.app/api?username=nsff&show_icons=true&locale=en&theme=codeSTACKr&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-stats-deploying.vercel.app/api/top-langs/?username=nsff&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div>
   <h3>Most recent Medium article ✍️:</h3>
