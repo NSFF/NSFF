@@ -35,6 +35,11 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsff&rank=-?,-C,-B" alt="nsff" /></a> </p>
 </div>
 
+<div>
+  <h3>Personality Type 🎭:</h3>
+  <h3 style="text-align: center;" _ngcontent-cko-c21="" class="text-center"><a _ngcontent-cko-c21="" target="_blank" href="https://www.16personalities.com/intj-personality">Architect: INTJ-T</a></h3>
+  <img _ngcontent-cko-c21="" src="https://static.neris-assets.com/images/personality-types/headers/analysts_Architect_INTJ_personality_header.svg">
+</div>
 
 <!---
 NSFF/NSFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
