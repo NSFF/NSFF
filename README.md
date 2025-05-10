@@ -3,10 +3,6 @@
   </a><a href="https://www.kaggle.com/nsff591"><img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&style=plastic"></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=nsff&label=Profile%20views&color=0e75b6&style=flat" alt="nsff" /> </p>
 </h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=cf5d29&width=435&lines=Data+Engineer+💻;Machine+Learning+Engineer+📊;%23Energy+Domain+Knowlegde+⚡;%23Always+Learning+📖;" alt="Some words describing Robin Van Craenenbroek" />
-</a>
-
 <p>
     As a Data Engineer, I have honed my skills in data modeling, ETL, data warehousing, and cloud computing within <a href="https://aws.amazon.com/" style="color: #cf5d29">AWS</a>, <a href="https://azure.microsoft.com/en-us" style="color: #cf5d29"> Azure</a> and <a href="https://cloud.google.com/?hl=en" style="color: #cf5d29">Google Cloud</a>. I have also worked on several projects that demonstrate my ability to solve complex data problems and create scalable data pipelines. An example of this is my participation in developing the backend of an internal tool used worldwide within <a href="https://www.randstad.be/en/" style="color: #cf5d29">Randstad</a>. I have a passion for Data engineering and Machine Learning as developing new technology and making an impact in real-world problems motivates me.
 </p>
